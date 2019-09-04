@@ -1,5 +1,5 @@
-[![](https://jitpack.io/v/BrokenEarthDev/FusionYAML.svg)](https://jitpack.io/#BrokenEarthDev/FusionYAML)
-
+<h2>Notice</h2>
+<h4>FusionYAML has been moved to https://github.com/FusionYAML. This repository will no longer receive updates</h4>
 
 <h1>FusionYAML</h1>
 
